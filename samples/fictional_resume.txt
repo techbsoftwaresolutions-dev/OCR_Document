@@ -1,0 +1,9 @@
+RESUME
+Name: Example Person
+Email: example.person@example.com
+Phone: 9876543210
+Location: Sample City
+Skills: JavaScript, React, Node.js
+Education: B.Tech Computer Science
+Experience: Junior Developer
+LinkedIn: linkedin.com/in/example-person
